@@ -1,5 +1,6 @@
-# Sales-Insights
-# Pizza Sales Report Dashboard using PowerBi
+# Sales-Insights Dashboard
+# Pizza Sales Report Dashboard using PowerBi.
+
 Analyzed Pizza Sales data created interactive dashboard using PowerBI, EXCEL and SQL.
 <br>
 # Home Tab
