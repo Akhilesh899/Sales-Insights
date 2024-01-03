@@ -1,4 +1,5 @@
 # Sales-Insights Dashboard
+https://www.novypro.com/project/pizza-sales-insights
 # Pizza Sales Report Dashboard using PowerBi.
 
 Analyzed Pizza Sales data created interactive dashboard using PowerBI, EXCEL and SQL.
